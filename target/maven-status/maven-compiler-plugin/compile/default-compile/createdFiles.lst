@@ -1,0 +1,5 @@
+entity\category.class
+entity\product.class
+demo.class
+entity\manufactorer.class
+HibernateUtil.class
